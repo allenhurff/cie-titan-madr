@@ -1,4 +1,4 @@
-# ADR 3: API Documentation
+# ADR 7: API Documentation
 
 ## Context and Problem Statement
 
