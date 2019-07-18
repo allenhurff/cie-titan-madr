@@ -2,8 +2,6 @@
 
 ## Context and Problem Statement
 
-What is the technology stack?
-
 * What programming languages would you use for the API/APIs? Why?
 * Which database technology(ies) would you leverage? Why?
 * What other platforms would you leverage, if at all? Why?

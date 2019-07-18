@@ -1,9 +1,8 @@
-# ADR 2: Caching Strategy
+# ADR 3: API Documentation
 
 ## Context and Problem Statement
 
-* What data can/should be cached?
-* What caching frameworks/platforms/approaches would you leverage and In what circumstances?
+* How will you provide documentation for API consumers?
 
 ## Decision Drivers <!-- optional -->
 

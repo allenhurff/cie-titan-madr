@@ -6,16 +6,8 @@ This log lists the architectural decisions for MADR.
 
 - [ADR-0000](0000-readypitchgo-overview-and-problem-statement.md) - ADR 0: ReadyPitchGo - Overview & Problem Statement
 - [ADR-0001](0001-what-is-the-technology-stack.md) - ADR 1: What is the technology stack?
-- [ADR-0002](0002-caching-strategy.md) - Do not use numbers in headings
-- [ADR-0003](0003-include-in-adr-tools.md) - Inlucde in adr-tools
-- [ADR-0004](0004-write-own-toc-tool.md) - Write own TOC tool
-- [ADR-0005](0005-use-dashes-in-filenames.md) - Use dashes in filenames
-- [ADR-0006](0006-use-names-as-identifier.md) - Use names as identifier
-- [ADR-0007](0007-do-not-emphasize-line-headings.md) - Do not emphasize line headings
-- [ADR-0008](0008-add-status-field.md) - Add status field
-- [ADR-0009](0009-support-links-between-adrs-inside-an-adrs.md) - Support links between ADRs inside an ADRs
-- [ADR-0010](0010-support-categories.md) - Support categories
-- [ADR-0011](0011-use-asterisk-as-list-marker.md) - Use asterisk as list marker
+- [ADR-0002](0002-caching-strategy.md) - ADR 2: Caching Strategy
+- [ADR-0003](0003-api-documentation.md) - ADR 3: API Documentation
 
 <!-- adrlogstop -->
 
