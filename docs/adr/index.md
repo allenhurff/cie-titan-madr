@@ -17,7 +17,9 @@ This log lists the architectural decisions for MADR.
 - [ADR-0010](0010-load-and-performance-testing.md) - ADR 3: API Documentation
 - [ADR-0011](0011-unit-and-integration-testing.md) - ADR 3: API Documentation
 - [ADR-0012](0012-branching-strategy.md) - ADR 3: API Documentation
-- [ADR-0013](0013-Deployments.md) - ADR 3: API Documentation
+- [ADR-0013](0013-deployments.md) - ADR 3: API Documentation
+- [ADR-0014](0014-hosting.md) - ADR 3: API Documentation
+- [ADR-0015](0015-hosting-costs.md) - ADR 3: API Documentation
 
 <!-- adrlogstop -->
 
