@@ -1,8 +1,9 @@
-# ADR 5: API Documentation
+# ADR 5: Validation
 
 ## Context and Problem Statement
 
-* How will you provide documentation for API consumers?
+*   What libraries (If any) will you use for validation of data?
+*   How would you integrate the validation of user input throughout the various properties to ensure data integrity?
 
 ## Decision Drivers <!-- optional -->
 

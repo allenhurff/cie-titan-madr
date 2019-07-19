@@ -2,7 +2,7 @@
 
 ## Context and Problem Statement
 
-* How will you provide documentation for API consumers?
+*   How will you provide documentation for API consumers?
 
 ## Decision Drivers <!-- optional -->
 

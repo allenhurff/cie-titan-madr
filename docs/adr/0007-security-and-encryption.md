@@ -1,8 +1,10 @@
-# ADR 7: API Documentation
+# ADR 7: Security & Encryption
 
 ## Context and Problem Statement
 
-* How will you provide documentation for API consumers?
+*   What types of hashing and/or encryption would you leverage?
+*   What data would you hash/encrypt?
+*   Do you see any potential problematic areas specifically around areas like data protection, compliancy, etc.?
 
 ## Decision Drivers <!-- optional -->
 

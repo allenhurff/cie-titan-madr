@@ -1,8 +1,9 @@
-# ADR 4: API Documentation
+# ADR 4: Exception & Logging Handlings
 
 ## Context and Problem Statement
 
-* How will you provide documentation for API consumers?
+*   What frameworks/tooling will you leverage for exception logging?
+*   Standard logging?
 
 ## Decision Drivers <!-- optional -->
 

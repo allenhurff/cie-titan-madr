@@ -1,8 +1,10 @@
-# ADR 6: API Documentation
+# ADR 6: Authorization and Authentication
 
 ## Context and Problem Statement
 
-* How will you provide documentation for API consumers?
+*   How will you handle authorization and authentication?
+*   How will you differentiate between the various types of roles?
+*   How would you manage access and security on the API level to restrict access to other team data?
 
 ## Decision Drivers <!-- optional -->
 
