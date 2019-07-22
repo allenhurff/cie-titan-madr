@@ -6,7 +6,7 @@
 
 ## Decision Drivers <!-- optional -->
 
-* [Getting Started with Helm/Tiller in Kubernetes](https://medium.com/@anthonyganga/getting-started-with-helm-tiller-in-kubernetes-part-one-3250aa99c6ac)
+*   [Getting Started with Helm/Tiller in Kubernetes](https://medium.com/@anthonyganga/getting-started-with-helm-tiller-in-kubernetes-part-one-3250aa99c6ac)
 
 ## Considered Options
 
@@ -24,4 +24,8 @@
 
 ## Decision Outcome
 
-Chosen option: "[option 1]", because [justification. e.g., only option, which meets k.o. criterion decision driver | which resolves force force | … | comes out best (see below)].
+*   Amazon EKS
+*   Amazon ECR
+*   Terraform
+*   GitLab CI-Runner
+*   GitLab AutoDevops
