@@ -1,8 +1,8 @@
-# ADR 123: API Documentation
+# ADR 12: Branching Strategy
 
 ## Context and Problem Statement
 
-* How will you provide documentation for API consumers?
+*   With so many features/functionality being developed concurrently, what branching strategy will you leverage?
 
 ## Decision Drivers <!-- optional -->
 

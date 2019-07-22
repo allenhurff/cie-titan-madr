@@ -1,8 +1,9 @@
-# ADR 11: API Documentation
+# ADR 11: Unit/Integration Testing
 
 ## Context and Problem Statement
 
-* How will you provide documentation for API consumers?
+*   What tools and approaches would you use to ensure that the code Is not just unit testable, but also that tests are ran often?
+*   Give a few examples of how you see the difference of unit tests for the ReadyPitchGo platform versus integration tests.
 
 ## Decision Drivers <!-- optional -->
 
