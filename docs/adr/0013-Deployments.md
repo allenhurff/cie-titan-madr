@@ -12,10 +12,11 @@
 
 ## Considered Options
 
-* [option 1]
-* [option 2]
-* [option 3]
-* … <!-- numbers of options can vary -->
+*   [GitLab's AutoDevOps](https://docs.gitlab.com/ee/topics/autodevops/) – Auto DevOps provides pre-defined CI/CD configuration which allows you to automatically detect, build, test, deploy, and monitor your applications. Leveraging CI/CD best practices and tools, Auto DevOps aims to simplify the setup and execution of a mature & modern software development lifecycle.
+*   [Jenkin's X](https://jenkins-x.io/) – Jenkins X provides pipeline automation, built-in GitOps and preview environments to help teams collaborate and accelerate their software delivery at any scale.
+*   [AWS CodeDeploy](https://aws.amazon.com/codedeploy/) – AWS CodeDeploy is a fully managed deployment service that automates software deployments to a variety of compute services such as Amazon EC2, AWS Fargate, AWS Lambda, and your on-premises servers. AWS CodeDeploy makes it easier for you to rapidly release new features, helps you avoid downtime during application deployment, and handles the complexity of updating your applications. You can use AWS CodeDeploy to automate software deployments, eliminating the need for error-prone manual operations. The service scales to match your deployment needs.
+*   [CircleCI](https://circleci.com/) – Continuous integration and delivery platform helps software teams rapidly release code with confidence by automating the build, test, and deploy process. Offers a modern software development platform that lets teams ramp
+*   [GitLab Runner (cirunner)](https://docs.gitlab.com/runner/) – GitLab Runner is the open source project that is used to run your jobs and send the results back to GitLab. It is used in conjunction with GitLab CI, the open-source continuous integration service included with GitLab that coordinates the jobs.
 
 ## Decision Outcome
 
