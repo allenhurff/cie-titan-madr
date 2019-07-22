@@ -7,7 +7,8 @@
 ## Decision Drivers <!-- optional -->
 
 *   [Grafana vs. Kibana: The Key Differences to Know](https://logz.io/blog/grafana-vs-kibana/) – Kibana and Grafana are two popular open source tools that help users visualize and understand trends within vast amounts of log data, and in this post, I will give you a short introduction to each of the tools and highlight the key differences between them.
-*   [Four Key Metrics] – (https://www.thoughtworks.com/radar/techniques/four-key-metrics) The researchers have determined that only four key metrics differentiate between low, medium and high performers: lead time, deployment frequency, mean time to restore (MTTR) and change fail percentage.
+*   [Four Key Metrics](https://www.thoughtworks.com/radar/techniques/four-key-metrics) The researchers have determined that only four key metrics differentiate between low, medium and high performers: lead time, deployment frequency, mean time to restore (MTTR) and change fail percentage.
+*   [PagerDuty for AWS CloudWatch](https://www.thoughtworks.com/radar/techniques/four-key-metrics) – Provide the performance data they can use to monitor the status of the AWS services they have deployed as part of their overall AWS ecosystem. Leveraging public cloud resources doesn’t mean users can ignore the status and performance of the servers that underpin them; in fact, keeping tabs on the various tools used becomes increasingly important as companies migrate critical apps to AWS.
 
 ## Considered Options
 
@@ -21,3 +22,4 @@
 
 *   Graphana
 *   Tableau
+*   PagerDuty for AWS CloudWatch
