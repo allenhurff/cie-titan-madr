@@ -165,6 +165,9 @@ cmake-build-debug/
 # mpeltonen/sbt-idea plugin
 .idea_modules/
 
+# Dependency directories
+node_modules/
+
 # JIRA plugin
 atlassian-ide-plugin.xml
 
