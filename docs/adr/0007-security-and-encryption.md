@@ -8,16 +8,19 @@
 
 ## Decision Drivers <!-- optional -->
 
-* [driver 1, e.g., a force, facing concern, …]
-* [driver 2, e.g., a force, facing concern, …]
-* … <!-- numbers of drivers can vary -->
+*   [Crypto Shredding](https://www.thoughtworks.com/radar/techniques/crypto-shredding) – Crypto shredding is the practice of rendering sensitive data unreadable by deliberately overwriting or deleting encryption keys used to secure that data. Considering there are systems, such as audit application or blockchain, that should not or could not delete historical records, this technique is quite useful for privacy protection and GDPR compliance.
+*   [General Data Protection Regulation (GDPR) Center](https://aws.amazon.com/compliance/gdpr-center/)
+
 
 ## Considered Options
 
-* [option 1]
-* [option 2]
-* [option 3]
-* … <!-- numbers of options can vary -->
+*   [Valut](https://www.vaultproject.io/) – Secure, store and tightly control access to tokens, passwords, certificates, encryption keys for protecting secrets and other sensitive data using a UI, CLI, or HTTP API.
+*   [Kubernetes Secrets](https://kubernetes.io/docs/concepts/configuration/secret/) – Kubernetes secret objects let you store and manage sensitive information, such as passwords, OAuth tokens, and ssh keys. Putting this information in a secret is safer and more flexible than putting it verbatim in a Pod definition or in a container image.
+*   [Encrypt Data on AWS](https://docs.aws.amazon.com/AmazonS3/latest/dev/UsingEncryption.html)
+    *   Encryption of your data at rest with AES256 (EBS/S3/Glacier/RDS)
+    *   Centralized managed Key Management (by AWS Region)
+    *   IPsec tunnels into AWS with the VPN-Gateways
+    *   Dedicated HSM modules in the cloud with AWS CloudHSM
 
 ## Decision Outcome
 
