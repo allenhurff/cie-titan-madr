@@ -10,7 +10,7 @@
 
 *   [Crypto Shredding](https://www.thoughtworks.com/radar/techniques/crypto-shredding) – Crypto shredding is the practice of rendering sensitive data unreadable by deliberately overwriting or deleting encryption keys used to secure that data. Considering there are systems, such as audit application or blockchain, that should not or could not delete historical records, this technique is quite useful for privacy protection and GDPR compliance.
 *   [General Data Protection Regulation (GDPR) Center](https://aws.amazon.com/compliance/gdpr-center/)
-
+*   [Auto Dynamic Application Security Testing (DAST)](https://docs.gitlab.com/ee/topics/autodevops/#auto-dast-ultimate) – Dynamic Application Security Testing (DAST) uses the popular open source tool OWASP ZAProxy to perform an analysis on the current code and checks for potential security issues. The Auto DAST stage will be skipped on licenses other than Ultimate. Once the report is created, it’s uploaded as an artifact which you can later download and check out. Any security warnings are also shown in the merge request widget. Read how DAST works.
 
 ## Considered Options
 
