@@ -27,5 +27,11 @@
   "license": "CC0-1.0",
   "files": [
     "template/"
-  ]
+  ],
+  "scripts": {
+    "release": "release-it"
+  },
+  "devDependencies": {
+    "release-it": "^12.3.3"
+  }
 }
