@@ -1,8 +1,9 @@
-# ADR 9: API Documentation
+# ADR 9: Scheduled Tasks
 
 ## Context and Problem Statement
 
-* How will you provide documentation for API consumers?
+*   What platforms/tools/approaches will you use to support scheduled tasks?
+*   What types of tasks do you envision needing to be scheduled versus real time?
 
 ## Decision Drivers <!-- optional -->
 

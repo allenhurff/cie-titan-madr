@@ -1,8 +1,8 @@
-# ADR 8: API Documentation
+# ADR 8: Reporting
 
 ## Context and Problem Statement
 
-* How will you provide documentation for API consumers?
+*   What platforms/tools/approaches will you leverage to support ad-hoc, self-service reports for both teams and administrators?
 
 ## Decision Drivers <!-- optional -->
 

@@ -1,8 +1,8 @@
-# ADR 14: API Documentation
+# ADR 14: Hosting
 
 ## Context and Problem Statement
 
-* How will you provide documentation for API consumers?
+* How will you host this platform.
 
 ## Decision Drivers <!-- optional -->
 

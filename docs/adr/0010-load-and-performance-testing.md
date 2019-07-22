@@ -1,8 +1,9 @@
-# ADR 10: API Documentation
+# ADR 10: Load/Performance Testing
 
 ## Context and Problem Statement
 
-* How will you provide documentation for API consumers?
+*   How will you be confident that the ReadyPitchGo platforms can handle the load from 40,000 teams, 600,000 pitchers with hundreds of millions of logged data points?
+*   What Is your load and performance testing plan?
 
 ## Decision Drivers <!-- optional -->
 

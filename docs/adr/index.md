@@ -12,14 +12,14 @@ This log lists the architectural decisions for MADR.
 - [ADR-0005](0005-validation.md) - ADR 5: Validation
 - [ADR-0006](0006-authentication-and-authorization.md) - ADR 6: Authorization and Authentication
 - [ADR-0007](0007-security-and-encryption.md) - ADR 7: Security & Encryption
-- [ADR-0008](0008-reporting.md) - ADR 8: API Documentation
-- [ADR-0009](0009-scheduled-tasks.md) - ADR 9: API Documentation
-- [ADR-0010](0010-load-and-performance-testing.md) - ADR 10: API Documentation
+- [ADR-0008](0008-reporting.md) - ADR 8: Reporting
+- [ADR-0009](0009-scheduled-tasks.md) - ADR 9: Scheduled Tasks
+- [ADR-0010](0010-load-and-performance-testing.md) - ADR 10: Load/Performance Testing
 - [ADR-0011](0011-unit-and-integration-testing.md) - ADR 11: API Documentation
 - [ADR-0012](0012-branching-strategy.md) - ADR 123: API Documentation
-- [ADR-0013](0013-deployments.md) - ADR 13: API Documentation
-- [ADR-0014](0014-hosting.md) - ADR 14: API Documentation
-- [ADR-0015](0015-estimated-hosting-costs.md) - ADR 15: API Documentation
+- [ADR-0013](0013-deployments.md) - ADR 13: Deployments
+- [ADR-0014](0014-hosting.md) - ADR 14: Hosting
+- [ADR-0015](0015-estimated-hosting-costs.md) - ADR 15: Hosting Costs
 
 <!-- adrlogstop -->
 

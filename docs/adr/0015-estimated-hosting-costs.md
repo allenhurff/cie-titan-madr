@@ -1,8 +1,8 @@
-# ADR 15: API Documentation
+# ADR 15: Hosting Costs
 
 ## Context and Problem Statement
 
-* How will you provide documentation for API consumers?
+* How will estimate (or project) and manage costs for your hosting solution set?
 
 ## Decision Drivers <!-- optional -->
 

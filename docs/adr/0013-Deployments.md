@@ -1,8 +1,8 @@
-# ADR 13: API Documentation
+# ADR 13: Deployments
 
 ## Context and Problem Statement
 
-* How will you provide documentation for API consumers?
+*   What Is your plan for managing builds and deployments across the various environments? Which and how many environments would you plan to support?
 
 ## Decision Drivers <!-- optional -->
 
